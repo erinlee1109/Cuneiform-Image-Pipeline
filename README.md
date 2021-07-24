@@ -3,6 +3,9 @@
 ### Description
 Automated production of "fat-cross", a stitched image of 6 individual scans of ancient Mesopotamian cuneiform tablets
 
+### Tools
+Python, OpenCV
+
 ### Data
 Image data for this project is provided by Oriental Institute at The University of Chicago. I will not upload them here due to copyright concerns. 
 
