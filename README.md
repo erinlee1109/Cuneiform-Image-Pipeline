@@ -7,7 +7,7 @@
 * [Assyriology](https://en.wikipedia.org/wiki/Assyriology) is the archaeological, historical, and linguistic study of Assyria and the rest of ancient Mesopotamia and of the related cultures that used cuneiform writing. 
 
 #### Successful Output (May update)
-<img src=A00102.jpg width=300> <img src=A00158.jpg width=300> <img src=A00159.jpg width=300>
+<img src=A00102.jpg width=250> <img src=A00158.jpg width=250> <img src=A00159.jpg width=250>
 
 
 #### Data
