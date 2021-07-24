@@ -1,16 +1,17 @@
 # Cuneiform-Image-Pipeline
 
 ### Description
-Automated production of "fat-cross", a stitched image of 6 individual scans of ancient Mesopotamian cuneiform tablets
+* Automated production of "fat-cross", a stitched image of 6 individual scans of ancient Mesopotamian cuneiform tablets
 
 ### Tools
-Python, OpenCV
+* Python
+* OpenCV
 
 ### Data
-Image data for this project is provided by Oriental Institute at The University of Chicago. I will not upload them here due to copyright concerns. 
+* Image data for this project is provided by Oriental Institute at The University of Chicago. I will not upload them here due to copyright concerns. 
 
 ### Current Goal
-- [ ] Increase the output success rate by improving the software. 
+- [ ] Increase the output success rate to 80% by improving the software. 
 - [ ] Contribute to the [CDLI (Cuneiform Digital Library Initiative)](https://github.com/cdli-gh) as an open source project. 
 
 ### Successful Output (May update)
