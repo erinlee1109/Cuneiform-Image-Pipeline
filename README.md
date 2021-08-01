@@ -19,3 +19,4 @@
 
 ## /MET-API-Data-for-CDLI
 * Currently harvesting data and images on cuneiform tablets in the MET using the [MET API](https://metmuseum.github.io). 
+* Learn more about MET cuneiforms [here](https://www.metmuseum.org/search-results#!/search?q=cuneiform).
