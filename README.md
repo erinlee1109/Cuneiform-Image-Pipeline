@@ -1,9 +1,6 @@
 # Cuneiform Image Pipeline
 
-### MET-API-Data-for-CDLI
-* Currently harvesting data and images on cuneiform tablets in the MET using the [MET API](https://metmuseum.github.io). 
-
-### Cuneiform-Image-Pipeline 
+## /Cuneiform-Image-Pipeline
 * Automated production of "fat-cross", a stitched image of 6 individual scans of ancient Mesopotamian cuneiform tablets. 
 * Tools: Python, OpenCV
 #### What is Assyriology? 
@@ -19,3 +16,6 @@
 #### Successful Output (May update)
 <img src=Cuneiform-Image-Pipeline/A00102.jpg width=250> <img src=Cuneiform-Image-Pipeline/A00158.jpg width=250> <img src=Cuneiform-Image-Pipeline/A00159.jpg width=250>
 
+
+## /MET-API-Data-for-CDLI
+* Currently harvesting data and images on cuneiform tablets in the MET using the [MET API](https://metmuseum.github.io). 
