@@ -14,5 +14,5 @@
 - [ ] Contribute to the [CDLI (Cuneiform Digital Library Initiative)](https://github.com/cdli-gh)'s open source projects to assist Assyriology 
 
 #### Successful Output (May update)
-<img src=A00102.jpg width=250> <img src=A00158.jpg width=250> <img src=A00159.jpg width=250>
+<img src=Cuneiform-Image-Pipeline/A00102.jpg width=250> <img src=Cuneiform-Image-Pipeline/A00158.jpg width=250> <img src=Cuneiform-Image-Pipeline/A00159.jpg width=250>
 
