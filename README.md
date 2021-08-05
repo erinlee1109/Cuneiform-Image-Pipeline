@@ -11,7 +11,7 @@
 
 #### Current Goal
 - [ ] Increase the output success rate to 80% by improving the software. 
-- [ ] Contribute to the [CDLI (Cuneiform Digital Library Initiative)](https://github.com/cdli-gh)'s open source project.  
+- [x] Contribute to the [CDLI (Cuneiform Digital Library Initiative)](https://github.com/cdli-gh)'s open source project. (Aug 1 update: this is ongoing)  
 
 #### Successful Output (May update)
 <img src=Cuneiform-Image-Pipeline/A00102.jpg width=250> <img src=Cuneiform-Image-Pipeline/A00159.jpg width=250>
